@@ -1,0 +1,5 @@
+{
+  "name": "Marks Management & Certificate System",
+  "description": "An application for managing student marks and generating certificates. Admins can manage students, classes, subjects, and exams. The public can look up results and download certificates upon meeting criteria.",
+  "requestFramePermissions": []
+}
